@@ -1,4 +1,3 @@
-console.log('ramin alaei hello :0');
 
 
 function ramin(){
